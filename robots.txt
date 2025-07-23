@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wortola5.github.io/ortola/sitemap.xml
+Sitemap: https://wortola5.github.io/ortola/ortola/sitemap.xml
